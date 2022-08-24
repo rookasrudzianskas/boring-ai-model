@@ -1,6 +1,6 @@
 ## Setup
 1. Install anaconda or miniconda
-2. Install git, then clone respository: `git clone https://github.com/harskish/ganspace/`
+2. Install git, then clone respository: `git clone https://github.com/rookasrudzianskas`
 3. Create environment: `conda create -n ganspace python=3.7`
 4. Activate environment: `conda activate ganspace`
 5. Install dependencies: `conda env update -f environment.yml --prune`
